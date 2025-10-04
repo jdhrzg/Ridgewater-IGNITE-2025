@@ -1,0 +1,16 @@
+Followed 	https://www.geeksforgeeks.org/installation-guide/install-jupyter-notebook-in-windows/
+
+Had to add some python paths to PATH variable
+
+---- BELOW DOESN'T WORK b/c it's old
+Installed 
+	https://github.com/takluyver/mobilechelonian
+Doesn't work with modern jupyter though
+So downgrade with
+	pip install "notebook<7"
+----
+
+Installed
+	https://github.com/ramalho/jupyturtle/tree/main
+	pip install jupyturtle
+
