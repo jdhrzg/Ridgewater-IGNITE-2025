@@ -1,6 +1,8 @@
 Followed 	https://www.geeksforgeeks.org/installation-guide/install-jupyter-notebook-in-windows/
 
+
 Had to add some python paths to PATH variable
+
 
 ---- BELOW DOESN'T WORK b/c it's old
 Installed 
@@ -10,7 +12,11 @@ So downgrade with
 	pip install "notebook<7"
 ----
 
+
 Installed
 	https://github.com/ramalho/jupyturtle/tree/main
 	pip install jupyturtle
 
+
+Good article on getting started with jupyter notebook
+	https://www.dataquest.io/blog/jupyter-notebook-tutorial/
