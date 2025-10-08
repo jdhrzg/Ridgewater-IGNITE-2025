@@ -1,0 +1,52 @@
+GET IGNITE REPO
+sudo apt update
+
+sudo apt install git
+
+cd Desktop
+
+git clone https://github.com/jdhrzg/Ridgewater-IGNITE-2025.git
+
+
+GET JUPYTER AND JUPYTURTLE
+cd /home/user
+sudo apt install pipx -y
+pipx ensurepath
+pipx install notebook
+pipx ensurepath
+
+open new terminal
+
+pipx list
+--
+venvs are in /home/user/.local/pipx/venvs
+apps are exposed on your $PATH at /home/user/.local/bin
+   package notebook 7.4.7, installed using Python 3.11.2
+    - jupyter-notebook
+--
+
+pipx inject notebook jupyturtle
+
+INSTALL EPIPHANY
+sudo apt update
+sudo apt install epiphany-browser
+
+xdg-settings set default-web-browser org.gnome.Epiphany.desktop
+
+--verify--
+xdg-settings get default-web-browser
+- says -
+org.gnome.Epiphany.desktop
+
+RUN JUPYTER
+cd /home/user/.local/bin
+jupyturtle-notebook
+
+copy notebook files from
+/home/user/Desktop/Ridgewater-IGNITE-2025/exercises
+into
+/home/user/.local/bin
+
+
+Good article on getting started with jupyter notebook
+	https://www.dataquest.io/blog/jupyter-notebook-tutorial/
