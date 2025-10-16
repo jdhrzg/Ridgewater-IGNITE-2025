@@ -6,7 +6,7 @@ My coworker and I represented Rural Computer Consultants, but our main goal was 
 
 ### The event was a HUGE success.  
 - Overall, the energy of the event was incredibly positive and upbeat
-- The Ridgewater event volunteers were very paitient and accommodating... and they fed us well :)
+- The Ridgewater event organizers were very patient and accommodating... and they fed us well :)
 - The other activity partners were excited to be there and were very open and engaged
 - The students were involved and open to trying out something as scary as "*PROGRAMMING*" :)
 
