@@ -1,5 +1,5 @@
 # Ridgewater College - IGNITE Your Future 2025
-My alma mater, Ridgewater College, hosts an event called IGNITE Your Future every year in October.  The IGNITE Your Future event gives over 1,000 High School sophmore students from 20 schools across central Minnesota an opportunity to explore a variety of careers.  This year there were over 70 activities for the students to participate in.
+My alma mater, Ridgewater College, hosts an event called IGNITE Your Future every year in October.  The IGNITE Your Future event gives over 1,000 High School sophomore students from 20 schools across central Minnesota an opportunity to explore a variety of careers.  This year there were over 70 activities for the students to participate in.
 
 This was my first year participating in this event as an activity partner.  
 My coworker and I represented Rural Computer Consultants, but our main goal was to represent software development as a career (as is the focus of the event).
